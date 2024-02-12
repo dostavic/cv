@@ -1,0 +1,3 @@
+sudo dnf install 'tex(hyphenat.sty)'
+
+pdflatex main.tex
